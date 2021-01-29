@@ -30,3 +30,10 @@ Fiecare test de inrare va fi structurat în felul următor:
 
 Fiecare test de iesire va conține matricea de adiacență cu distanțele minime între noduri (A[i][j] - distanta minima de la nodul i la nodul j, 
 inf daca nu se poate ajunge de la i la j).
+algo.cpp
+algo.h
+algo_test.cpp
+in/
+Makefile
+out/
+README
